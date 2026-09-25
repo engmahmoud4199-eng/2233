@@ -45,6 +45,48 @@ body { background-color: #000000; color: #ffffff; }
         width: 100%;
         height: 100%;
     }
+  <a href="https://wa.me/9665XXXXXXXX" 
+   target="_blank" 
+   class="whatsapp-button">
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
+         alt="WhatsApp">
+
+    <span>تواصل معنا</span>
+
+</a>
+
+<style>
+.whatsapp-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+    background-color: #25D366;
+    color: white;
+
+    padding: 10px 16px;
+    border-radius: 30px;
+
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+
+    z-index: 9999;
+}
+
+.whatsapp-button img {
+    width: 35px;
+    height: 35px;
+}
+
+.whatsapp-button:hover {
+    opacity: 0.9;
+}
 </style>
 </body>
 </html>
