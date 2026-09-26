@@ -1,18 +1,18 @@
 <html lang="en">
 <head>
 
- <body> { background-color: #000000; color: #ffffff; }
-  
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
   <title> Mahmoud </title>
 
 
 </head>
-
+<body> { background-color: #000000; color: #ffffff; }
+  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
  
-  " My Name is mahmoud "        
-   " Civil Site Engineer "
+<h1>  " My Name is mahmoud " </h1>      
+  
    <!-- زر واتساب العائم -->
 <a href="https://wa.me/966560358446" 
    target="_blank" 
@@ -38,7 +38,7 @@
         height: 100%;
     }
 
-<style>
+
 .whatsapp-button {
     position: fixed;
     bottom: 20px;
