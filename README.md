@@ -1,12 +1,12 @@
 <html lang="en">
 <head>
 
-body { background-color: #000000; color: #ffffff; }
-  </style>
+ <body> { background-color: #000000; color: #ffffff; }
+  
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title> Mahmoud </title>
-  <body>
+
 
 </head>
 
@@ -37,16 +37,6 @@ body { background-color: #000000; color: #ffffff; }
         width: 100%;
         height: 100%;
     }
-  <a href="https://wa.me/9665XXXXXXXX" 
-   target="_blank" 
-   class="whatsapp-button">
-
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
-         alt="WhatsApp">
-
-    <span>تواصل معنا</span>
-
-</a>
 
 <style>
 .whatsapp-button {
