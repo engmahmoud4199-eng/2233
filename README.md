@@ -6,8 +6,9 @@ body { background-color: #000000; color: #ffffff; }
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title> Mahmoud </title>
+  <body>
+
 </head>
-<body>
 
  
   " My Name is mahmoud "        
